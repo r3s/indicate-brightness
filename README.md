@@ -15,5 +15,9 @@ How To Use
 4. Make the file executable. `sudo chmod +x /usr/bin/indicate-brightness.py`
 5. Add the command `indicate-brightness.py` to Startup Applications
 
- 
+References
+---------------
+http://developer.ubuntu.com/resources/technologies/application-indicators/
+
+
 
