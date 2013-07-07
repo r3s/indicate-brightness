@@ -15,9 +15,17 @@ How To Use
 4. Make the file executable. `sudo chmod +x /usr/bin/indicate-brightness.py`
 5. Add the command `indicate-brightness.py` to Startup Applications
 
+
+
+
+##### If it is some other file that works for you, say for example, `/sys/class/backlight/acpi_video0/brightness` , then you edit the source and follow the above instructions for that specific file.
+##### Note : You will also have to change the `brightness` variable inside the source to suitable values.
+
+
+
 References
 ---------------
-http://developer.ubuntu.com/resources/technologies/application-indicators/
+http://developer.ubuntu.com/resources/technologies/application-indicators/ 
 
 
 
